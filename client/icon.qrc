@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/bj.jpg</file>
+        <file>icon/bj1.jpg</file>
+        <file>icon/bq.png</file>
+        <file>icon/bq1.png</file>
+        <file>icon/hy.png</file>
+        <file>icon/jm.jpg</file>
+        <file>icon/lt.png</file>
+        <file>icon/qjbj.jpg</file>
+        <file>icon/ql.png</file>
+        <file>icon/sz.png</file>
+        <file>icon/tx1.jpg</file>
+        <file>icon/tx2.jpg</file>
+        <file>icon/tx3.jpg</file>
+        <file>icon/tx4.jpg</file>
+        <file>icon/tx5.jpg</file>
+        <file>icon/tx6.jpg</file>
+        <file>icon/tx7.jpg</file>
+        <file>icon/tx8.jpg</file>
+        <file>icon/wxx.png</file>
+        <file>icon/yxx.png</file>
+        <file>icon/bj2.jpg</file>
+        <file>icon/bj3.jpg</file>
+        <file>icon/n.png</file>
+        <file>icon/n1.png</file>
+        <file>icon/mm.png</file>
+    </qresource>
+</RCC>
